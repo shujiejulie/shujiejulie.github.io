@@ -594,11 +594,11 @@ body {
   display: inline-block;
   float: left;
   margin-right: 20px;
-  width: 150px;
-  height: 150px;
+  width: 300px;
+  height: 300px;
   border-radius: 5px;
   filter: grayscale(100%);
-  background-size: 150px 150px;
+  background-size: 300px 300px;
   background-repeat: no-repeat;
   -webkit-filter: grayscale(100%);
 }
@@ -650,7 +650,7 @@ body {
   #header #title {
     display: table;
     margin-right: 5rem;
-    min-height: 150px;
+    min-height: 300px;
   }
   #header #title h1 {
     display: table-cell;
@@ -674,7 +674,7 @@ body {
   }
   #header #nav li:not(:first-child) {
     padding-top: 1rem;
-    padding-left: 170px;
+    padding-left: 320px;
     font-size: 1rem;
   }
 }
