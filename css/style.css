@@ -594,11 +594,11 @@ body {
   display: inline-block;
   float: left;
   margin-right: 20px;
-  width: 100px;
+  width: 80px;
   height: 100px;
   border-radius: 5px;
   filter: grayscale(100%);
-  background-size: 100px 100px;
+  background-size: 80px 100px;
   background-repeat: no-repeat;
   -webkit-filter: grayscale(100%);
 }
@@ -674,7 +674,7 @@ body {
   }
   #header #nav li:not(:first-child) {
     padding-top: 1rem;
-    padding-left: 120px;
+    padding-left: 100px;
     font-size: 1rem;
   }
 }
